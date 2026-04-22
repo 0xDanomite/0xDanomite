@@ -1,0 +1,5 @@
+# Claude Code local settings & project memory
+.claude/
+
+# macOS
+.DS_Store
