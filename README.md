@@ -1,6 +1,6 @@
 ## hey 👋 I'm back to building.
 
-Product engineering is an interesting new place where the lines between engineering, product, and business keep dissolving, and I'm here for it. I've worked across early-stage startups, mid-sized companies, and large engineering teams, and I've figured out I'm happiest where I can prototype, iterate, and stay close to the humans I'm building for.
+Product engineering is an interesting new place for me where the lines between engineering, product, and business keep dissolving, and I'm here for it. I've worked across early-stage startups, mid-sized companies, and large engineering teams, and I've figured out I'm happiest where I can prototype, iterate, and stay close to the humans I'm building for.
 
 These days I'm leaning hard on modern AI tooling to compress the loop from idea to working product - less friction, faster iteration, more things actually shipped.
 
